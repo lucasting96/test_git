@@ -1,6 +1,7 @@
 First line of Code
-Seriously
-
-
 
 Lmfao
+
+Seriously
+
+What the fuck is this git bash
